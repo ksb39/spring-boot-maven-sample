@@ -10,4 +10,5 @@ https://smujihoon.tistory.com/102
 
 cp ROOT.war /webapps/ROOT.war
 
+JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 
