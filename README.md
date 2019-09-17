@@ -14,3 +14,5 @@ JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 
 https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/
 
+
+https://victorydntmd.tistory.com/230
